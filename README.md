@@ -1,2 +1,2 @@
 # First
-Some description
+Some description.
